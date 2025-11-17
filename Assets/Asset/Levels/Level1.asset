@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 633e9907c46788b4a9a2d991d4bc998b, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  index: 0
+  numberOfRooms: 10
+  roomPool:
+  - {fileID: 11400000, guid: 9c1f28cc71edcab4d8a8c1df4021c61f, type: 2}
+  - {fileID: 11400000, guid: 8ad1affd94acd4b489e2d81399bc6a4c, type: 2}
+  - {fileID: 11400000, guid: 47f41c240e98ba248bf1c045906802e8, type: 2}

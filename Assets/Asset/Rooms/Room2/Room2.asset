@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d85ec2ace524f2649913d632f10efa3d, type: 3}
+  m_Name: Room2
+  m_EditorClassIdentifier: 
+  ground: {fileID: 3247139285815614608, guid: 68e97a5d76588f143bc8085d7ffcfdc0, type: 3}
+  obstacles: {fileID: 2348016747593038322, guid: 37cce88925906c049a7113ce573b6cb2, type: 3}
+  doorTile: {fileID: 11400000, guid: c1928d72b829a6745999317937143130, type: 2}
+  groundTile: {fileID: 11400000, guid: 22fd71630836cf04682b81516cd7c56e, type: 2}
+  destroyedDoorTile: {fileID: 11400000, guid: 989f4299bba3bfa4398b77ededfb5cc6, type: 2}
+  doorPlacements: 00000000010000000200000003000000
